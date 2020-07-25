@@ -1,5 +1,5 @@
 # Planet-Shooter
-This is an alternative of the Bubble Shooter game made with pygame.
+This is an alternative of the **Bubble Shooter** game made with *pygame*.
 
 ![](screenshot.jpg)
 
